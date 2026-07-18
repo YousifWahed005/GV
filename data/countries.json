@@ -1,0 +1,72 @@
+[
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "flagCode": "tr",
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=900&q=80",
+    "about": "Turkey bridges two continents, blending ancient Ottoman grandeur with vibrant modern culture. From bustling bazaars of Istanbul to surreal landscapes of Cappadocia, Turkey offers an unforgettable sensory journey.",
+    "history": "Home to ancient civilizations including the Hittites, Greeks, Romans, and Byzantines, Turkey was the heart of the Ottoman Empire for over 600 years before becoming a modern republic in 1923 under Mustafa Kemal Atatürk.",
+    "food": "Kofta bites and Turkish delight",
+    "dance": "Halay street circle",
+    "landmarks": "Hagia Sophia, Cappadocia, Pamukkale, Ephesus",
+    "funFact": "Istanbul is the only city in the world that spans two continents — Europe and Asia!",
+    "gallery": [],
+    "sortOrder": 1
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "flagCode": "tn",
+    "image": "https://images.unsplash.com/photo-1548018560-c7196548e84d?auto=format&fit=crop&w=900&q=80",
+    "about": "Tunisia is a North African gem where ancient Carthaginian ruins meet white-washed medinas and golden Saharan dunes. A crossroads of Mediterranean cultures offering hospitality as warm as its sun.",
+    "history": "One of the oldest civilizations, Tunisia was home to ancient Carthage before Roman conquest. It later became part of the Islamic world and the Ottoman Empire, gaining independence from France in 1956.",
+    "food": "Brik and mint tea tasting",
+    "dance": "Stambeli-inspired showcase",
+    "landmarks": "Medina of Tunis, El Djem Amphitheater, Sahara Desert, Carthage ruins",
+    "funFact": "Tunisia was the filming location for many Star Wars scenes, including Luke Skywalker's home planet Tatooine!",
+    "gallery": [],
+    "sortOrder": 2
+  },
+  {
+    "id": "hong-kong",
+    "name": "Hong Kong",
+    "flagCode": "hk",
+    "image": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&w=900&q=80",
+    "about": "Hong Kong is a dazzling fusion of East and West — a vertical city where ancient temples stand beside gleaming skyscrapers, and the aroma of dim sum fills the streets alongside world-class finance.",
+    "history": "A fishing village turned British colony in 1842, Hong Kong developed into a global financial powerhouse. It was handed back to China in 1997 under 'One Country, Two Systems'.",
+    "food": "Dim sum street bites",
+    "dance": "Lion dance fusion",
+    "landmarks": "Victoria Peak, Temple Street Night Market, Tian Tan Buddha, Victoria Harbour",
+    "funFact": "Hong Kong has the world's highest concentration of skyscrapers — over 9,000 buildings taller than 14 floors!",
+    "gallery": [],
+    "sortOrder": 3
+  },
+  {
+    "id": "pakistan",
+    "name": "Pakistan",
+    "flagCode": "pk",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=900&q=80",
+    "about": "Pakistan is a land of breathtaking contrasts — towering K2 peaks, ancient Indus Valley ruins, vibrant truck art, and the legendary warmth of its people.",
+    "history": "One of the cradles of civilization with the 5,000-year-old Indus Valley Civilization. After partition from British India in 1947, Pakistan emerged as an independent nation.",
+    "food": "Biryani cups and chai",
+    "dance": "Bhangra crew battle",
+    "landmarks": "K2, Badshahi Mosque, Mohenjo-daro, Lahore Fort",
+    "funFact": "Pakistan is home to five of the world's 14 mountains over 8,000 meters, including the mighty K2!",
+    "gallery": [],
+    "sortOrder": 4
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "flagCode": "in",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=80",
+    "about": "India is a kaleidoscope of civilizations — a land where ancient temples, Bollywood beats, street spices, and spiritual traditions collide in the most spectacular way.",
+    "history": "One of the world's oldest civilizations, India was the birthplace of Hinduism, Buddhism, and Jainism. From the Mughal empire to independence in 1947, India's history is vast.",
+    "food": "Chaat and masala tasting",
+    "dance": "Bollywood flash set",
+    "landmarks": "Taj Mahal, Jaipur Pink City, Kerala Backwaters, Varanasi Ghats",
+    "funFact": "India invented chess, the number zero, and the decimal system — and has over 1,600 spoken languages!",
+    "gallery": [],
+    "sortOrder": 5
+  }
+]

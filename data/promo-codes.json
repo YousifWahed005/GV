@@ -1,0 +1,6 @@
+[
+  { "id": "pc-1", "code": "MARKETING25", "discountAmount": 25, "expirationDate": "2026-08-11", "usageLimit": 100, "usageCount": 0, "status": "Active" },
+  { "id": "pc-2", "code": "MEDIA50", "discountAmount": 50, "expirationDate": "2026-08-11", "usageLimit": 50, "usageCount": 0, "status": "Active" },
+  { "id": "pc-3", "code": "TEAM20", "discountAmount": 20, "expirationDate": "2026-08-11", "usageLimit": 200, "usageCount": 0, "status": "Active" },
+  { "id": "pc-4", "code": "AMBASSADOR", "discountAmount": 100, "expirationDate": "2026-08-11", "usageLimit": 10, "usageCount": 0, "status": "Active" }
+]

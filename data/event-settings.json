@@ -1,0 +1,38 @@
+{
+  "eventName": "Global Village Street'26",
+  "eventDate": "2026-08-11",
+  "eventTime": "10:00",
+  "eventLocation": "Suez, Egypt",
+  "ticketPrice": 200,
+  "registrationOpen": true,
+  "maxRegistrations": 300,
+  "hero": {
+    "eventName": "Global Village Street'26",
+    "tagline": "One World. One Crew. One Vibe.",
+    "date": "11 August 2026",
+    "location": "Suez, Egypt"
+  },
+  "footer": {
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "youtube": "",
+      "linkedin": "",
+      "x": ""
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "address": "Suez, Egypt"
+    },
+    "quickLinks": [
+      { "id": "ql-1", "label": "Home", "href": "/", "sortOrder": 1 },
+      { "id": "ql-2", "label": "Countries", "href": "#countries", "sortOrder": 2 },
+      { "id": "ql-3", "label": "Shows", "href": "#shows", "sortOrder": 3 },
+      { "id": "ql-4", "label": "Tickets", "href": "#tickets", "sortOrder": 4 },
+      { "id": "ql-5", "label": "Register", "href": "/register", "sortOrder": 5 },
+      { "id": "ql-6", "label": "Track Registration", "href": "/track", "sortOrder": 6 }
+    ]
+  }
+}

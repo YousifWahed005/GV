@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Program Files \\\\\\(x86\\\\\\)/**)",
+      "Bash(where.exe 7z.exe)",
+      "Bash(python3 -c \"import py7zr\")",
+      "Bash(python -c \"import py7zr\")",
+      "Bash(pip show *)",
+      "Bash(pip --version)",
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(/c/Users/DELL/AppData/Local/Programs/Python/Python312/python.exe -c ' *)",
+      "Bash(find \"/c/Users/DELL/Downloads\" -maxdepth 2 -iname \"*aero*\" 2>&1)",
+      "Bash(awk '/export declare function Rubik_Spray_Paint/,/^}/' node_modules/next/dist/compiled/@next/font/dist/google/index.d.ts)",
+      "Bash(awk '/export declare function Sedgwick_Ave_Display/,/^}/' node_modules/next/dist/compiled/@next/font/dist/google/index.d.ts)",
+      "Bash(powershell -NoProfile -Command \"Get-Process -Id 6004 | Select-Object Id,ProcessName,Path,StartTime\")",
+      "Bash(powershell -NoProfile -Command \"Stop-Process -Id 6004 -Force\")"
+    ]
+  }
+}
