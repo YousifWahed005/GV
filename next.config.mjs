@@ -11,6 +11,7 @@ const nextConfig = {
   experimental: {
     serverActions: { bodySizeLimit: "12mb" },
   },
+  serverExternalPackages: ["pdfkit", "fontkit"],
   turbopack: {},
   webpack: (config, { isServer }) => {
     if (!isServer) {

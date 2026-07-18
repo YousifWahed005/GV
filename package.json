@@ -12,6 +12,7 @@
   "dependencies": {
     "@googleapis/drive": "^10.0.0",
     "@googleapis/sheets": "^10.0.0",
+    "fontkit": "^2.0.4",
     "framer-motion": "^12.23.0",
     "google-auth-library": "^9.15.0",
     "lucide-react": "^0.468.0",
