@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Ticket, Crown, Zap } from "lucide-react";
 
 const FEATURES = [
@@ -33,6 +34,13 @@ export function TicketCards({ price, registrationOpen, capacityFull }: {
           </p>
 
           <div className="mt-6 flex items-end gap-3">
+            <Image
+              src="/assets/200.png"
+              alt="200 (old price, crossed out)"
+              width={747}
+              height={285}
+              className="mb-4 h-14 w-auto sm:h-16"
+            />
             <span className="font-display text-8xl text-limeflash" aria-label={`${price} Egyptian Pounds`}>{price}</span>
             <span className="mb-5 text-2xl font-black text-paper/65">EGP</span>
           </div>

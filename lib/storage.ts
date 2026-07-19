@@ -30,7 +30,7 @@ const defaultSettings: EventSettings = {
   eventDate: "2026-08-11",
   eventTime: "10:00",
   eventLocation: "Suez, Egypt",
-  ticketPrice: 200,
+  ticketPrice: 140,
   registrationOpen: true,
   maxRegistrations: 300,
   hero: { eventName: "Global Village Street'26", tagline: "One World. One Crew. One Vibe.", date: "11 August 2026", location: "Suez, Egypt" },
